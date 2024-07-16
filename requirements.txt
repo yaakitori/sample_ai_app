@@ -3,3 +3,5 @@ torch==2.3.0
 torchvision==0.18.0
 Pillow
 matplotlib
+numpy==1.25.2
+pandas==pandas==1.5.3
